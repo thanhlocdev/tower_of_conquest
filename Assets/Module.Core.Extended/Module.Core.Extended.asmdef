@@ -1,0 +1,16 @@
+{
+    "name": "Module.Core.Extended",
+    "rootNamespace": "Module.Core.Extended",
+    "references": [
+        "Module.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
