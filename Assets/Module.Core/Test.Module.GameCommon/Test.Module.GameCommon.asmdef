@@ -1,0 +1,16 @@
+{
+    "name": "Test.Module.GameCommon",
+    "rootNamespace": "Test.Module.GameCommon",
+    "references": [
+        "Module.GameCommon"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
