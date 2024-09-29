@@ -2,6 +2,7 @@
     "name": "Test.Module.GameCommon",
     "rootNamespace": "Test.Module.GameCommon",
     "references": [
+        "Module.Core",
         "Module.GameCommon"
     ],
     "includePlatforms": [],
