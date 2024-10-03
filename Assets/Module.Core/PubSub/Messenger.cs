@@ -1,5 +1,7 @@
 #if UNITASK || UNITY_6000_0_OR_NEWER
 
+// https://github.com/laicasaane/tower_of_encosy/blob/main/Assets/Module.Core/PubSub/Messenger.cs
+
 // MIT License
 // 
 // Copyright (c) 2024 Laicasaane
