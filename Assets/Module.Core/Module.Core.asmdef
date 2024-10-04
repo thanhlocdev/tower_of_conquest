@@ -15,8 +15,7 @@
         "Unity.Mathematics",
         "Unity.ResourceManager",
         "Unity.Serialization",
-        "Unity.TextMeshPro",
-        "ZBase.UnityScreenNavigator"
+        "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -90,11 +89,6 @@
             "name": "com.unity.ugui",
             "expression": "2.0.0",
             "define": "UNITY_TEXTMESHPRO"
-        },
-        {
-            "name": "com.zbase.unityscreennavigator",
-            "expression": "",
-            "define": "ZBASE_UNITY_SCREEN_NAVIGATOR"
         },
         {
             "name": "org.nuget.system.runtime.compilerservices.unsafe",

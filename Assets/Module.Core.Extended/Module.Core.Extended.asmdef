@@ -2,7 +2,14 @@
     "name": "Module.Core.Extended",
     "rootNamespace": "Module.Core.Extended",
     "references": [
-        "Module.Core"
+        "Module.Core",
+        "SpanExtensions.Net.Unity",
+        "UniTask",
+        "UniTask.Addressables",
+        "Unity.Addressables",
+        "Unity.Collections",
+        "Unity.ResourceManager",
+        "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
